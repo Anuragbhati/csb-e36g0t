@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anuragbhati.github.io/csb-e36g0t/static/css/main.70b36ef6.chunk.css",
+    "main.js": "https://anuragbhati.github.io/csb-e36g0t/static/js/main.2b796c95.chunk.js",
+    "main.js.map": "https://anuragbhati.github.io/csb-e36g0t/static/js/main.2b796c95.chunk.js.map",
+    "runtime-main.js": "https://anuragbhati.github.io/csb-e36g0t/static/js/runtime-main.366f37c5.js",
+    "runtime-main.js.map": "https://anuragbhati.github.io/csb-e36g0t/static/js/runtime-main.366f37c5.js.map",
+    "static/js/2.f857d72d.chunk.js": "https://anuragbhati.github.io/csb-e36g0t/static/js/2.f857d72d.chunk.js",
+    "static/js/2.f857d72d.chunk.js.map": "https://anuragbhati.github.io/csb-e36g0t/static/js/2.f857d72d.chunk.js.map",
+    "index.html": "https://anuragbhati.github.io/csb-e36g0t/index.html",
+    "static/css/main.70b36ef6.chunk.css.map": "https://anuragbhati.github.io/csb-e36g0t/static/css/main.70b36ef6.chunk.css.map",
+    "static/js/2.f857d72d.chunk.js.LICENSE.txt": "https://anuragbhati.github.io/csb-e36g0t/static/js/2.f857d72d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.366f37c5.js",
+    "static/js/2.f857d72d.chunk.js",
+    "static/css/main.70b36ef6.chunk.css",
+    "static/js/main.2b796c95.chunk.js"
+  ]
+}
